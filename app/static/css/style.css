@@ -1,0 +1,20 @@
+ul {
+flex-direction: column;
+display: flex;
+justify-content: space-between;
+}
+
+a {
+text-decoration: none;
+color: inherit;
+}
+
+.list-item{
+margin: 10px;
+border: 3px solid #CC9933;
+padding: 10px;
+border-radius: 5px;
+max-width: 50px;
+display: inline;
+background-color: gray;
+}
